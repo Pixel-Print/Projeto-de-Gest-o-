@@ -1,3 +1,2 @@
-# -Projeto de Gestão - PixelPrint
-Integrantes
-Kaique
+# Projeto de Gestão - PixelPrint
+## 👥 Integrantes
