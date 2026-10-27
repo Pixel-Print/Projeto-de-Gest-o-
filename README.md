@@ -1,1 +1,3 @@
-# -PROJETO-EM-GESTAO-DE-SISTEMAS-COMPUTACIONAIS--Pixel-Print
+# -Projeto de Gestão - PixelPrint
+Integrantes
+Kaique
